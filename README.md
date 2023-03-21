@@ -20,12 +20,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ghost-codes&theme=oldie&no-frame=true&no-bg=false&margin-w=4)
 
-
 ### ✍️ Favorite Dev Quote
-```
-I am become death, the destroyer of worlds
-```
-### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?quote=I%20am%20become%20death%2C%20the%20destroyer%20of%20worlds.&author=J.%20Robert%20Oppenheimer&type=horizontal&theme=radical)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
