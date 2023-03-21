@@ -1,6 +1,5 @@
-<p align="center"><img src="https://storage.googleapis.com/cms-storage-bucket/4fd5520fe28ebf839174.svg" width="150">
-<img src="https://www.svgrepo.com/download/500758/arrow-right-bold.svg" width="100" >
-<img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg" width="300">
+<p align="center"><img src="https://storage.googleapis.com/cms-storage-bucket/4fd5520fe28ebf839174.svg" width="100">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1024px-Go_Logo_Blue.svg.png?20191207190041" width="300">
 </p>
 
 # 💫 About Me:
