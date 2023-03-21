@@ -1,5 +1,5 @@
 <div  style="display:flex;color:blue;align-items:center;justify-content:center"><img src="https://storage.googleapis.com/cms-storage-bucket/4fd5520fe28ebf839174.svg" width="150">
-<img src="https://pixlok.com/wp-content/uploads/2022/02/Next-Arrow-Icon-SVG-oikjklgf.png" width="100" >
+<img src="https://www.svgrepo.com/download/500758/arrow-right-bold.svg" width="100" >
 <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg" width="300">
 </div>
 
