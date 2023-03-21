@@ -1,7 +1,7 @@
-<div  style="display:flex;color:blue;align-items:center;justify-content:center"><img src="https://storage.googleapis.com/cms-storage-bucket/4fd5520fe28ebf839174.svg" width="150">
+<p align="center"><img src="https://storage.googleapis.com/cms-storage-bucket/4fd5520fe28ebf839174.svg" width="150">
 <img src="https://www.svgrepo.com/download/500758/arrow-right-bold.svg" width="100" >
 <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg" width="300">
-</div>
+</p>
 
 # 💫 About Me:
 🔭 I’m currently working on replicating Uber Backend in Golang<br>👯 I’m looking to collaborate on any Golang project available<br>🤝 I’m looking for help with any questions you have on my journey<br>🌱 I’m currently learning Golang<br>⚡ Fun fact: I really love cooking 🧑🏾‍🍳🥘 and would eventually take a class on it 
@@ -20,9 +20,13 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ghost-codes&theme=oldie&no-frame=true&no-bg=false&margin-w=4)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=@ceo_nkatie)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
+### ✍️ Favorite Dev Quote
+```
+I am become death, the destroyer of worlds
+```
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?quote=I%20am%20become%20death%2C%20the%20destroyer%20of%20worlds.&author=J.%20Robert%20Oppenheimer&type=horizontal&theme=radical)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
